@@ -1,1 +1,1 @@
-this is a A.c file
+this is new A.c file
