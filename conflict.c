@@ -1,1 +1,1 @@
-this is master branch conflict.c file
+this is testing  branch conflict.c file
